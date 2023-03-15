@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Agent Server Calculator</title>
+</head>
+<body>
+    <h1>Agent Server Calculator</h1>
+    <form method="POST" action="/calculate">
+        <label for="storage_data">Storage Data to be Migrated (GB): </label>
+        <input type="text" id="storage_data" name="storage_data">
+        <input type="submit" value="Calculate">
+    </form>
+    {% if result %}
+        <p>Recommended number of agent servers: {{ result }}</p>
+    {% endif %}
+</body>
+</html>
