@@ -31,4 +31,4 @@
 
 ```bash
 $ git clone https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
-$ python agent_server_calculator
+$ python agent_server_calculator.py
