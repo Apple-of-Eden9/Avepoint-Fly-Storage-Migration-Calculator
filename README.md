@@ -26,6 +26,6 @@
 
 ## Installation
 
-1. git clone https://github.com/username/repo-name.git
+1. git https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
 2. python app.py
 
