@@ -18,16 +18,20 @@
   <img src="https://user-images.githubusercontent.com/1234567/12345678-example.gif" alt="Demo" width="600">
 </p>
 
-## Features
+## Calculation
 
-- Calculate estimated time and cost for migrating data to AvePoint Fly storage
-- User-friendly interface with easy-to-use input fields and clear output results
-- Error handling for invalid input and other issues
+- Calculate the required number of agent servers
+- Calculations is based upon 12 Migration hours
+- 10 Agents per server
+- 5 Mappings per agent
+- 1 Agent
 
-## Installation
+
+## Installation Using Visual Studio Code
 
 1. git https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
 2. python app.py
+3. This will launch a webapp locally
 
 ```bash
 $ git clone https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
