@@ -20,7 +20,7 @@
 
 ## Calculation
 
-- Calculate the required number of agent servers
+- Calculate the required number of agent servers required for Data Migration
 - Calculations is based upon 12 Migration hours
 - 10 Agents per server
 - 5 Mappings per agent
@@ -29,10 +29,11 @@
 
 ## Installation Using Visual Studio Code
 
-1. git https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
-2. python app.py
-3. This will launch a webapp locally
-
 ```bash
 $ git clone https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
 $ python agent_server_calculator.py
+```
+-  This will create a Webapp Locally
+
+![image](https://user-images.githubusercontent.com/29496020/225463788-40b0bb28-68e6-4237-b0ef-7253fa9f4f04.png)
+
