@@ -1,19 +1,31 @@
-# Avepoint Fly Storage Migration Calculator :file_folder: :cloud: :arrows_counterclockwise:
+<h1 align="center">AvePoint Fly Storage Migration Calculator 🚀</h1>
 
-The AvePoint Fly Storage Migration Calculator is a Python-based web application that allows users to easily calculate the estimated time and cost for migrating their data to AvePoint Fly storage. It utilizes Flask and various other libraries to create a responsive and user-friendly interface.
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#license">License</a>
+</p>
 
-# 🚀 Features
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/python-v3.9-blue?logo=python&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/flask-v2.0.2-blue?logo=flask&logoColor=white">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
+</p>
 
-Calculate estimated time and cost for migrating data to AvePoint Fly storage
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/1234567/12345678-example.gif" alt="Demo" width="600">
+</p>
 
-User-friendly interface with easy-to-use input fields and clear output results
+## Features
 
-Error handling for invalid input and other issues
+- Calculate estimated time and cost for migrating data to AvePoint Fly storage
+- User-friendly interface with easy-to-use input fields and clear output results
+- Error handling for invalid input and other issues
 
-# 🛠️ Installation - Run Locally Using Visual Studio Code
+## Installation
 
-Clone the repository:
+1. git clone https://github.com/username/repo-name.git
+2. python app.py
 
-git clone https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
-
-python agent_server_calculator.py
