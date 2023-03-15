@@ -10,8 +10,10 @@ User-friendly interface with easy-to-use input fields and clear output results
 
 Error handling for invalid input and other issues
 
-# 🛠️ Installation
+# 🛠️ Installation - Run Locally Using Visual Studio Code
 
 Clone the repository:
 
-git clone https://github.com/username/repo-name.git 
+git clone https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
+
+python agent_server_calculator.py
