@@ -29,3 +29,6 @@
 1. git https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
 2. python app.py
 
+```bash
+$ git clone https://github.com/Apple-of-Eden9/Avepoint-Fly-Storage-Migration-Calculator.git
+$ python agent_server_calculator
