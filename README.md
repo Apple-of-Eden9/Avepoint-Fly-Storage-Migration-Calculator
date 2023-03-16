@@ -20,6 +20,7 @@
 
 ## Calculation
 
+- This scenario is based on 1 Fly Server Manager without Agent installed to manage 10 Fly Server Agents
 - Calculate the required number of agent servers required for Data Migration
 - Calculations is based upon 12 Migration hours
 - 10 Agents per server
